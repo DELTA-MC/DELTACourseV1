@@ -1,13 +1,13 @@
-# VRPH: SA Developers Course
+# DELTA Maker Community: Arduino Course
 
 ## Introduction
-This is the first version of an experimental course on VR development. Basically, we want to go from this:
+This is the first version of an experimental course on technology development. Basically, we want to go from this:
 
 ![Meme](http://s2.quickmeme.com/img/af/af83635580510dd86fb3cff88ee083eda660ebad357f9cf2fdc4ac06c2e60ee3.jpg)
 
 to this:
 
-![Edward](https://media.giphy.com/media/5iw1uEuhN0PnO/giphy.gif)
+![Edward](http://giphy.com/gifs/mgZWp02iXp4bu)
 
 in a span of n weeks. In general, we will try to keep a breakneck pace (since everyone seems to be up to the challenge) and give ourselves lots and lots of things to think about. In particular, the course is based on the following principles:
 
